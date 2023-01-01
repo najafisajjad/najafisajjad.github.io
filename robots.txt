@@ -1,0 +1,4 @@
+Sitemap: najafisajjad.github.io/sitemap.xml
+
+User-agent: *
+Disallow:
